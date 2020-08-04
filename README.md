@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<p>Estudante de programação no COTIL UNICAMP, apaixonado por tecnologia desde criança, buscando aprender novas linguagens e evoluir cada vez mais!</p>
+<p>Estudante de programação no Colégio Técnico de Limeira - Unicamp, apaixonado por tecnologia desde criança, buscando aprender novas linguagens e evoluir cada vez mais!</p>
 
 ## :star2: Tecnologias que estudo
 
