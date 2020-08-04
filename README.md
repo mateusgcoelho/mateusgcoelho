@@ -1,9 +1,9 @@
-<h1 align="center">João Mateus Games Coelho</h1>
+<h1 align="center">Olá pessoal! 👋</h1>
 
 <br>
 <br>
 
-<p>Estudante de programação no Colégio Técnico de Limeira - Unicamp, apaixonado por tecnologia desde criança, buscando aprender novas linguagens e evoluir cada vez mais!</p>
+<p>Atualmente não trabalho porém busco experiência, sou estudante de programação no Colégio Técnico de Limeira - Unicamp, apaixonado por tecnologia desde criança, buscando aprender novas linguagens e evoluir cada vez mais!</p>
 
 ## :star2: Tecnologias que estudo
 
