@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">João Mateus Games Coelho</h1>
 
-<!--
-**mateusgcoelho/mateusgcoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+<p>Estudante de programação no COTIL UNICAMP, apaixonado por tecnologia desde criança, buscando aprender novas linguagens e evoluir cada vez mais!</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :star2: Tecnologias que estudo
+
+- :sparkling_heart: ReactJS
+- :purple_heart: NodeJS
+- :collision: ReactNative
+- :fire: JavaScript
