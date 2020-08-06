@@ -9,5 +9,5 @@
 
 - :sparkling_heart: ReactJS
 - :purple_heart: NodeJS
-- :collision: ReactNative
+- :collision: React Native
 - :fire: JavaScript
