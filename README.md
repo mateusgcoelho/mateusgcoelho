@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/joão-mateus-coelho/">
+  <a href="https://www.linkedin.com/in/joão-mateus-coelho/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
 
-  <a href="https://app.rocketseat.com.br/me/mateusgcoelho">
+  <a href="https://app.rocketseat.com.br/me/mateusgcoelho" target="_blank">
       <img src="https://img.shields.io/badge/rocketseat-%238257e6.svg?&style=for-the-badge" alt="Rocketseat" />
   </a>
 </p>
@@ -27,7 +27,7 @@
 <br>
 
 <p>
-  <a href="https://github.com/mateusgcoelho/repositories">
+  <a href="https://github.com/mateusgcoelho/repositories" target="_blank">
     <img src="https://badges.pufler.dev/repos/mateusgcoelho?style=for-the-badge&color=%23D3D3D3" alt="Repositories" />
   </a>
 
