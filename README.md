@@ -14,11 +14,13 @@
 
 ## Tecnologias
 
-• :sparkling_heart: ReactJS
-• :purple_heart: NodeJS
-• :collision: React Native
-• :fire: JavaScript
-• 🌌 TypeScript 
+<ul>
+  <li>:sparkling_heart: ReactJS</li>
+  <li>:purple_heart: NodeJS</li>
+  <li>:collision: React Native</li>
+  <li>:fire: JavaScript</li>
+  <li>🌌 TypeScript </li>
+</ul>
 
 ## 📊 GitHub Stats
 
