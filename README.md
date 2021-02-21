@@ -18,7 +18,7 @@
 • :purple_heart: NodeJS
 • :collision: React Native
 • :fire: JavaScript
-• :message: TypeScript 
+• 🌌 TypeScript 
 
 ## 📊 GitHub Stats
 
