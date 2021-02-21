@@ -27,11 +27,11 @@
 <br>
 
 <p>
-  <a href="https://github.com/thiagotandrade/brunorcorrea?">
-    <img src="https://badges.pufler.dev/repos/brunorcorrea?style=for-the-badge&color=%23D3D3D3" alt="Repositories" />
+  <a href="https://github.com/mateusgcoelho/repositories">
+    <img src="https://badges.pufler.dev/repos/mateusgcoelho?style=for-the-badge&color=%23D3D3D3" alt="Repositories" />
   </a>
 
-![](https://komarev.com/ghpvc/?username=brunorcorrea&color=blue&style=plastic)
+![](https://komarev.com/ghpvc/?username=mateusgcoelho&color=blue&style=blueviolet)
 
 </p>
 
