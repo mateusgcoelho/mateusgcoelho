@@ -31,14 +31,4 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgcoelho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Tecnologias
-
-<ul>
-  <li>:sparkling_heart: ReactJS</li>
-  <li>:purple_heart: NodeJS</li>
-  <li>:collision: React Native</li>
-  <li>:fire: JavaScript</li>
-  <li>🌌 TypeScript </li>
-</ul>
-
 <!-- ![](https://hit.yhype.me/github/profile?user_id=60991787) -->
