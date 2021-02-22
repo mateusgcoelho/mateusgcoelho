@@ -13,13 +13,13 @@
   <a href="https://app.rocketseat.com.br/me/mateusgcoelho" target="blank">
       <img src="https://img.shields.io/badge/rocketseat-%238257e6.svg?&style=for-the-badge" alt="Rocketseat" />
   </a>
-  </p>
-
+  
   <a href="https://github.com/mateusgcoelho/repositories" target="_blank">
     <img src="https://badges.pufler.dev/repos/mateusgcoelho?style=for-the-badge&color=%23D3D3D3" alt="Repositories" />
   </a>
 
 ![](https://komarev.com/ghpvc/?username=mateusgcoelho&color=blue&style=blueviolet)
+  </p>
 
 </p>
 
