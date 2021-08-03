@@ -23,13 +23,8 @@
 
 <br>
 
-<p align="center">
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusgcoelho&theme=radical)](https://github-readme-stats.vercel.app/api?username=mateusgcoelho&theme=radical)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgcoelho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusgcoelho&theme=radical)](https://github-readme-stats.vercel.app/api?username=mateusgcoelho&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgcoelho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
 
 <div> 
  
