@@ -7,7 +7,7 @@
 <p>
   <p align="center">
     <a href="https://www.linkedin.com/in/joão-mateus-coelho/" target="blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="200px" alt="Linkedin">
     </a>
 
   <a href="https://app.rocketseat.com.br/me/mateusgcoelho" target="blank">
