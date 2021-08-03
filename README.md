@@ -31,4 +31,19 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgcoelho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- ![](https://hit.yhype.me/github/profile?user_id=60991787) -->
+<div> 
+  <a href="https://instagram.com/luzi_freitas1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:freitas.lu@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/freitasluziane" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ ![Snake animation](https://github.com/LuzianeFreitas/LuzianeFreitas/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
+
+<div align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/LuzianeFreitas/LuzianeFreitas" alt="Visitors badge" />
+   </a>
+</div>
+
