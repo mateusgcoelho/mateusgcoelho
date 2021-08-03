@@ -7,7 +7,7 @@
 <p>
   <p align="center">
     <a href="https://www.linkedin.com/in/joão-mateus-coelho/" target="blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="200px" alt="Linkedin">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
     </a>
 
   <a href="https://app.rocketseat.com.br/me/mateusgcoelho" target="blank">
@@ -25,7 +25,9 @@
 
 <p align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusgcoelho&theme=radical)](https://github-readme-stats.vercel.app/api?username=mateusgcoelho&theme=radical)
+<div style="width: 200px">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusgcoelho&theme=radical)](https://github-readme-stats.vercel.app/api?username=mateusgcoelho&theme=radical)
+</div>
 </p>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgcoelho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
