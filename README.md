@@ -25,7 +25,7 @@
 
 <div style="width: 100%; display: flex; align-items: center; justfy-content: space-between;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusgcoelho&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgcoelho&layout=compact&theme=radical" />  
+  <img height="180em" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgcoelho&layout=compact&theme=radical" />  
 </div>
 
 <div> 
