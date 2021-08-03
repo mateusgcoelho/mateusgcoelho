@@ -27,9 +27,9 @@
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusgcoelho&theme=radical)](https://github-readme-stats.vercel.app/api?username=mateusgcoelho&theme=radical)
   
-</p>
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgcoelho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+</p>
 
 <div> 
  
