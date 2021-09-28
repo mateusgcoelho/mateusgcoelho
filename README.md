@@ -1,7 +1,5 @@
 ## João Mateus Games Coelho
 
-<p>A paixão pela programação é desde pequenininho, mas a vontade de aprender e ser melhor só aumenta a cada dia!</p>
-
 <br>
 
 <p>
