@@ -1,5 +1,3 @@
-## João Mateus Games Coelho
-
 <br>
 
 <p>
