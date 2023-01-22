@@ -1,39 +1,13 @@
-<br>
+# João Mateus
 
-<p>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/mateusgcoelho/" target="blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-    </a>
+Mobile Developer | Flutter, Java, Node
 
-  <a href="https://app.rocketseat.com.br/me/mateusgcoelho" target="blank">
-      <img src="https://img.shields.io/badge/rocketseat-%238257e6.svg?&style=for-the-badge" alt="Rocketseat" />
-  </a>
-  
-  <a href="https://github.com/mateusgcoelho/repositories" target="_blank">
-    <img src="https://badges.pufler.dev/repos/mateusgcoelho?style=for-the-badge&color=%23D3D3D3" alt="Repositories" />
-  </a>
-  </p>
+[![Linkedin Badge](https://img.shields.io/badge/mateusgcoelho?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusgcoelho/)](https://www.linkedin.com/in/mateusgcoelho/) 
+[![Gmail Badge](https://img.shields.io/badge/-mateusgamescoelho547@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusgamescoelho547@gmail.com)](mailto:mateusgamescoelho547@gmail.com)
 
-</p>
+Enthusiast of the best web & mobile development technologies.
 
-<br>
+Passionate about education and changing people's lives through programming. More than 200,000 people have already undergone one of my trainings.
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusgcoelho&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgcoelho&layout=compact&theme=radical" />  
-</div>
-
-<div> 
- 
- ![Snake animation](https://github.com/LuzianeFreitas/LuzianeFreitas/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
-
-<div align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/LuzianeFreitas/LuzianeFreitas" alt="Visitors badge" />
-   </a>
-</div>
+"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 
